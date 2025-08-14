@@ -1,0 +1,1 @@
+{"name":"llama-floating-chat","version":"1.0.0","description":"Floating LLaMA 8B chat widget powered by a Vercel backend.","main":"api/llama.js","scripts":{"start":"node api/llama.js"},"dependencies":{"node-fetch":"^2.6.1"}}
